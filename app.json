@@ -1,0 +1,8 @@
+{
+  "name": "mfa-spring-ms-product",
+  "buildpacks": [
+    {
+      "url": "heroku/gradle"
+    }
+  ]
+}
